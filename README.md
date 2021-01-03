@@ -1,5 +1,6 @@
 # Cuddles Plush
 http://cuddlesplush.herokuapp.com/
+
 This is an ecommerce web app that sells **Teddy Bears**. There are three types of **privileges**: guests, users and admin. 
 
 |    Guests     |        Users         |      Admin      |
