@@ -24,7 +24,7 @@ This is an ecommerce web app that sells **Teddy Bears**. There are three types o
 
 ## Cloud Hosting
 
-Currently hosted on Heroku which is using a hobby dyno. The database is hosted on AWS EC2 for cost-effectiveness. These services are provided generously for students.
+Currently hosted on Heroku which is using a free dyno. The database is hosted on AWS EC2 for cost-effectiveness. These services are provided generously for students.
 
 ## Disclaimer
 
